@@ -113,7 +113,7 @@
     "pages": {
       "about": true,
       "contact": true,
-      "cv": true,
+      "cv": false,
       "press": false,
       "exhibitions": false,
       "news": false,
