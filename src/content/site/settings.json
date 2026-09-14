@@ -104,7 +104,7 @@
     },
     "footer": {
       "socials": true,
-      "credit": true,
+      "credit": false,
       "text": "Stay weird"
     },
     "favicon": {
