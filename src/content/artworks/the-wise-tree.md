@@ -11,4 +11,4 @@ order: 0
 featured: false
 ---
 
-lorem ipsum
+Started this plein air piece by the river, close to my home. This tree has been by me in my most joyful and tearful moments. I always go visit it.
