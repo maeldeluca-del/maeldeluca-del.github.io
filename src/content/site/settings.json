@@ -1,21 +1,26 @@
 {
   "siteTitle": "Maël Abstract",
-  "tagline": "",
+  "tagline": "painter, observer...",
   "logoText": "Maël Abstract",
   "theme": "default",
   "fontPairing": "jost-hanken-grotesk",
   "portfolioLayout": "masonry",
   "columns": 3,
   "motionDefault": "full",
-  "rightClickProtect": false,
+  "rightClickProtect": true,
   "watermark": false,
   "watermarkText": "",
-  "protectFromAI": false,
+  "protectFromAI": true,
   "newsletterInFooter": false,
   "newsletterOnWork": false,
   "ogImage": "/assets/og-default.jpg",
-  "metaDescription": "",
-  "socialLinks": [],
+  "metaDescription": "Maël De Luca is a Montréal-based visual artist creating vibrant, often psychedelic, organic and geometric paintings inspired by nature, architecture, fractals, patterns, and the beauty of chaos and order.",
+  "socialLinks": [
+    {
+      "label": "",
+      "url": "https://www.instagram.com/mael.abstract"
+    }
+  ],
   "supportLinks": [],
   "linksEnabled": false,
   "links": [],
