@@ -107,7 +107,8 @@
       "credit": true
     },
     "favicon": {
-      "mode": "initials"
+      "mode": "image",
+      "image": "/assets/favicon-6c6qm0.jpg"
     },
     "pages": {
       "about": true,
