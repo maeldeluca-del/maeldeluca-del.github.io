@@ -1,6 +1,6 @@
 ---
 title: About
-statement: Painting working in Montréal, Qc, Canada. Plein-Air, abstract, psychedelic, geometric, meditative...
+statement: Painter working in Montréal, Qc, Canada. Plein-Air, abstract, psychedelic, geometric, meditative...
 ---
 
 This is your About page. Open the editor at **/admin** to add your artist
