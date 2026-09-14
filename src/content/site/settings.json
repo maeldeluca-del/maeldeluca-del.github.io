@@ -114,7 +114,7 @@
       "about": true,
       "contact": true,
       "cv": true,
-      "press": true,
+      "press": false,
       "exhibitions": false,
       "news": false,
       "available": true,
@@ -124,5 +124,7 @@
       "projects": false,
       "stockists": false
     }
-  }
+  },
+  "commissionsIntro": "My comissions are open for:\n- Abstract paintings\n- Paintings from reference of a place that is dear to you\n- Murals\n- Album covers\n- And more, I am open :)",
+  "commissionsTerms": "Simply send me a message and tell me your idea, I will then give you the details to see if you want to move forward.\nI would absolutely love to bring your idea to life !"
 }
