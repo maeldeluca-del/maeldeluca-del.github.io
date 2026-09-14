@@ -95,7 +95,7 @@
     },
     "lightbox": {
       "transition": "slide",
-      "zoom": false
+      "zoom": true
     },
     "hero": {
       "enabled": false,
@@ -104,7 +104,8 @@
     },
     "footer": {
       "socials": true,
-      "credit": true
+      "credit": true,
+      "text": "Stay weird"
     },
     "favicon": {
       "mode": "image",
