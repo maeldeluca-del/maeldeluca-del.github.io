@@ -1,5 +1,7 @@
 ---
 title: Contact
+intro: Please get in contact with me about anything, I would love to hear from you !
+email: maeldeluca@gmail.com
 formEnabled: true
 ---
 
