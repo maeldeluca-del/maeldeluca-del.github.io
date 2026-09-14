@@ -7,7 +7,7 @@ dimensions: 8 x 8 in
 status: available
 price: "1000000"
 alt: masterpiece ronds
-order: 0
+order: 20
 featured: false
 ---
 

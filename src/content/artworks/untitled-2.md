@@ -7,7 +7,7 @@ dimensions: 24 x 46
 status: available
 price: "550"
 alt: Psychedelic abstract painting
-order: 0
+order: 39
 featured: false
 ---
 

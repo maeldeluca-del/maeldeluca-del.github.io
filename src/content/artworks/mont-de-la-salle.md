@@ -7,7 +7,7 @@ dimensions: 9 x 12 in
 status: available
 price: "80"
 alt: steeple
-order: 0
+order: 23
 featured: false
 ---
 

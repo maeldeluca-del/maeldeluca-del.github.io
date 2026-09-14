@@ -7,7 +7,7 @@ dimensions: 8 x 10 in
 status: available
 price: "250"
 alt: misty shore
-order: 0
+order: 8
 featured: false
 ---
 

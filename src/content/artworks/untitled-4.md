@@ -6,7 +6,7 @@ medium: Oil on canvas
 dimensions: 8 x 16 in
 status: available
 alt: abbstract painting
-order: 0
+order: 40
 featured: false
 ---
 

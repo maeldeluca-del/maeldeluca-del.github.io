@@ -7,7 +7,7 @@ dimensions: 48 x 48 in
 status: available
 price: "1750"
 alt: hyperolic tesselation
-order: 0
+order: 6
 featured: false
 ---
 

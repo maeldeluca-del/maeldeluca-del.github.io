@@ -7,7 +7,7 @@ dimensions: 8 x 10 in
 status: available
 price: "150"
 alt: psychedelic paint5ing
-order: 0
+order: 38
 featured: false
 ---
 

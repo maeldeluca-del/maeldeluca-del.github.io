@@ -7,7 +7,7 @@ dimensions: 12 x 16 in
 status: available
 price: "150"
 alt: oil painting
-order: 0
+order: 29
 featured: false
 ---
 

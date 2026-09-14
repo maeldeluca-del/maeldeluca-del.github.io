@@ -7,7 +7,7 @@ dimensions: 29 x 41 in
 status: available
 price: "650"
 alt: fractal circle pattern with the hidden image of a skull
-order: 0
+order: 13
 featured: false
 ---
 

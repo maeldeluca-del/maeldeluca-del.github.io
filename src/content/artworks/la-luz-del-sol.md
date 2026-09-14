@@ -7,7 +7,7 @@ dimensions: 24 x 34 in
 status: available
 price: "250"
 alt: trippy sun
-order: 0
+order: 27
 featured: false
 ---
 

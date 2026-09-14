@@ -7,7 +7,7 @@ dimensions: 8 x 10 in
 status: available
 price: "150"
 alt: a stone wall
-order: 0
+order: 33
 featured: false
 ---
 

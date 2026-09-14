@@ -7,7 +7,7 @@ dimensions: 24 x 36 in
 status: available
 price: "1450"
 alt: Fractal concentric grey circles converging into a wormhole
-order: 0
+order: 11
 featured: false
 ---
 

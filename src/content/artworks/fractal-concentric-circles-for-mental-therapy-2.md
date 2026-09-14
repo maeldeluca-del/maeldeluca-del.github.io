@@ -7,7 +7,7 @@ dimensions: 30 x 36 in
 status: available
 price: "450"
 alt: ronds
-order: 0
+order: 14
 featured: false
 ---
 

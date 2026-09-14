@@ -7,7 +7,7 @@ dimensions: 9 x 12 in
 status: available
 price: "150"
 alt: tree
-order: 0
+order: 3
 featured: false
 ---
 

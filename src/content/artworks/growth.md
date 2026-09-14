@@ -7,7 +7,7 @@ dimensions: 16 x 20 in
 status: available
 price: "175"
 alt: psychedelia
-order: 0
+order: 26
 featured: false
 ---
 

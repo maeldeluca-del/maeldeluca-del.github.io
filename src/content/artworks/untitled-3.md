@@ -7,7 +7,7 @@ dimensions: 16 x 19 in
 status: available
 price: "180"
 alt: circles
-order: 0
+order: 19
 featured: false
 ---
 

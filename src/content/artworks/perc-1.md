@@ -7,7 +7,7 @@ dimensions: 15 x 30 in
 status: available
 price: "450"
 alt: percé
-order: 0
+order: 30
 featured: false
 ---
 

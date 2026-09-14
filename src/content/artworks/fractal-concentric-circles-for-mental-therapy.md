@@ -10,7 +10,7 @@ dimensions: 36 x 93 in
 status: available
 price: "750"
 alt: ronds
-order: 0
+order: 16
 featured: false
 ---
 

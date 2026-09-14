@@ -6,7 +6,7 @@ medium: Acrylic on canvas
 dimensions: 16 x 20 in
 status: sold
 alt: percé
-order: 0
+order: 31
 featured: false
 ---
 

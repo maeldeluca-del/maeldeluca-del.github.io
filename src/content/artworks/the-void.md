@@ -7,7 +7,7 @@ dimensions: 18 x 18 in
 status: available
 price: "450"
 alt: Black fractal circles on a black background
-order: 0
+order: 15
 featured: false
 ---
 

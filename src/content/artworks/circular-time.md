@@ -7,7 +7,7 @@ dimensions: 20 x 20 in
 status: available
 price: "450"
 alt: time is fake
-order: 0
+order: 21
 featured: false
 ---
 

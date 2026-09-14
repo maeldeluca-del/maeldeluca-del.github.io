@@ -7,7 +7,7 @@ dimensions: 8 x 10 in
 status: available
 price: "450"
 alt: Seaside cliff
-order: 0
+order: 7
 featured: false
 ---
 

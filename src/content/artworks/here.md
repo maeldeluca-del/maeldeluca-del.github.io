@@ -6,7 +6,7 @@ medium: Acrylic on canvas board
 dimensions: 9 x 12 in
 status: sold
 alt: bird
-order: 0
+order: 2
 featured: false
 ---
 

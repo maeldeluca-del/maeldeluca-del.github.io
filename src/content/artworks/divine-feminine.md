@@ -7,7 +7,7 @@ dimensions: (2x) 24 x 34 in
 status: available
 price: "750"
 alt: Painting diptych of coloful abstract psychedelics shapes, reminiscent of the female reproductive organs
-order: 0
+order: 10
 featured: false
 ---
 
